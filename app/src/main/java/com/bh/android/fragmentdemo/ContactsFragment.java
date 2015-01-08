@@ -62,6 +62,8 @@ public class ContactsFragment extends Fragment {
     @Override
     public void onPause() {
         super.onPause();
+
+        Log.v(TAG, "+++ onPause +++");
     }
 
     @Override

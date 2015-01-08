@@ -60,6 +60,7 @@ public class NewsFragment extends Fragment {
     @Override
     public void onPause() {
         super.onPause();
+        Log.v(TAG, "+++ onPause +++");
     }
 
     @Override
