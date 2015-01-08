@@ -2,4 +2,4 @@
 
 <p>reference: <a href='http://blog.csdn.net/guolin_blog/article/details/13171191'>http://blog.csdn.net/guolin_blog/article/details/13171191</a></p>
 
-<img src='screenshots/Screen_Shot_2015-01-08_at_11.47.48.png'>
+<img src='https://raw.githubusercontent.com/binghuan/Android_BH_FragmentDemo/master/screenshots/Screen_Shot_2015-01-08_at_11.47.48.png'>
