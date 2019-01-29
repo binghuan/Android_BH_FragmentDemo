@@ -34,8 +34,9 @@ public class ContactsFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
         Log.v(TAG, "+++ onCreateView +++");
+        View contactLayout = inflater.inflate(R.layout.contacts_layout, container, false);
 
-        return super.onCreateView(inflater, container, savedInstanceState);
+        return contactLayout;
     }
 
     @Override
