@@ -11,5 +11,8 @@
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
     </wildcardResourcePatterns>
+    <bytecodeTargetLevel>
+      <module name="Android_BH_FragmentDemo.app" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
