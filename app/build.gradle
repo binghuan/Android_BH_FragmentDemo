@@ -1,12 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
+    namespace 'com.bh.android.fragmentdemo'
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.bh.android.fragmentdemo"
         minSdkVersion 15
-        targetSdkVersion 28
+        targetSdk 33
         versionCode 1
         versionName "1.0"
     }
@@ -16,6 +17,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    buildToolsVersion '35.0.0'
 }
 
 dependencies {

@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_BH_FragmentDemo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_BH_FragmentDemo.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_BH_FragmentDemo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_BH_FragmentDemo.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_BH_FragmentDemo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_BH_FragmentDemo.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
